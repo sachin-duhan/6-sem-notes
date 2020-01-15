@@ -1,0 +1,74 @@
+--------- Jan 15 2020 ----------
+
+Feasilbilty study revolve aournd:
+
+Analysis -> Design -> Coding -> Testing -> Delivary and maintainance
+
+Feasibility of the application of the software
+
+===============================
+
+SDLC - software development life cycle!
+
+----- TELOS ------
+T = technical - means that is it technicalluy possilbe to built the software
+E = Economic - is it possible to built in the application in the given fund and budget
+L = legal - is it legal to build
+O = operational - is machine compatible enough of running the applicaion 
+S = schedule - avialability of time!!
+
+===============================
+
+WATER Fall MODEL 
+when the software is bulit in phases strictly ordered and we can come back to initial stage like water fall
+
+------------------ ADVANTAGES ------------------
+
+1. Simple - easy to understand
+2. Strutured approach
+3. Works well with small project!
+4. fully working design docuement is present in the beginging itself
+5. suitable for project with fixed requirements
+
+------------- DISADVANTAGES -------------------
+
+1. Difficult to define all requirements at beginging
+2. not suitable fir accomodating any change!
+3. a wokring vesion of the sstem is not avialble until late in project life!!
+4. not suitable for large projects!
+5. real projects are rarely sequential!
+
+important Question : Explain water fall model, write advantes and disadvantages!
+
+========================================================================
+			PROTOTYPING MODEL
+========================================================================
+
+1. requirements -> 2. quick design -> 3. implementaion -> 4. customer evaluation -> 5. design -> 6. implementation -> 7. unit test -> 8. integeration & system test -> 9. operation and maintanence
+
+-------------------------------------------------------------------
+NOTE : if customer satisfaction fails at step 4 we go back to step 2
+--------------------------------------------------------------------
+
+Step 2 is quick design!
+
+
+------------
+explanation and notes will be given by sir later!
+------------
+
+========================================================================
+			INCREMENTAL MODEL
+========================================================================
+
+
+gather all rquirement from the customer, include some functions and show it to customer and take input
+
+1. reduced risk of faliure
+2. flexible and promote encourage innovation!
+3. can be used to train users
+
+
+1. TIME TAKING
+2. cost consuming
+3. prototyping promote excessive change request leading to pain in ass for developer!
