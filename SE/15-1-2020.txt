@@ -64,11 +64,22 @@ explanation and notes will be given by sir later!
 
 gather all rquirement from the customer, include some functions and show it to customer and take input
 
+
+------------------ ADVANTAGES ----------------------------
 1. reduced risk of faliure
 2. flexible and promote encourage innovation!
 3. can be used to train users
 
-
+------------------- DISADVANTAGES --------------------------
 1. TIME TAKING
 2. cost consuming
 3. prototyping promote excessive change request leading to pain in ass for developer!
+
+PHASES IN INCREMENTAL MODEL
+
+1. COMMUNICATION
+2. PLANNING
+3. MODELLING (analysis and design)
+4. CONSTRUCTION - (code and test)
+5. DEPLOYMENT - (delivery and feedback)
+
