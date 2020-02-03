@@ -176,5 +176,7 @@ The design phase of product or part development has quickly become essential to 
 *****************************************
 DIVIDE & CONQUER
 
+A modular system consist of well defined managaable units with well defined interfaces among the units
+modularity is the single attribite of the application that allows the progrm to be intellectually manageable!!
 
 
