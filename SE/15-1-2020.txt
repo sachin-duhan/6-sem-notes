@@ -83,3 +83,98 @@ PHASES IN INCREMENTAL MODEL
 4. CONSTRUCTION - (code and test)
 5. DEPLOYMENT - (delivery and feedback)
 
+
+=========================================================================
+			ITERATIVE MODEL
+========================================================================
+
+This mdel has the same phases as the water fold model but with fewer restrictions. 
+Usable product is released as the end of its cycle with its release provide additional functionality.
+
+PHASES 
+requirements -> design -> implementation and limit testing -> intergeration and system testing (release 1)
+		|-> design -> implementation and limit testing -> intergeration and system testing (release 2)
+		|-> design -> implementation and limit testing -> intergeration and system testing (release 3)
+		 and so on
+
+	(after every release the software is redsign and a more advance release is madea afterwards!)
+
+
+============================================================================
+			SPIRAL MODEL
+============================================================================
+its s generalzied model for the all other above mentioned models
+unlike many other software process model, the spiral model incorporates the project risk factor.
+
+I  -  deteermine obbjective, alternative contraints
+II -  
+
+
+in spiral model one phase is split roughly into four sector of major activities. 
+1. planning - determinaton of objectives, alternatives and contraints
+2. risk analysis - identify and resolve the risks.
+3. development - product development and testing the product
+4. assessment -
+
+
+
+
+
+
+=============================================
+UNIT 2 - REUIREMENT VALIDATION TEHNIQUE
+=============================================
+
+Rquirement reviews
+Prototyping 
+
+
+*********************************************
+	UNIT - III SOFTWARE DESIGN
+*********************************************
+
+Defnition - higly significant phase in software development where the designer plans "how" a software should be producded in order to make it functional, reliable, reasonabbly easy to understand, modify and maintained.
+
+-> Design involves transformation of ideas into deailed implementation descriptions, with a goal of satisfying with the software requiremnets (as spacified in the SRS document.)
+
+TYPE OF DESIGN - 
+1. TECHNICAL (HOW)
+2. CONCEPTUAL DESIGN (WHAT)
+
+
+-> Designers are intermediators between the coutomer and system builders. they prepare conceptual design that tells the customers exactly what the systemdo!
+-> Once this is approved by the cutomer, the conceptual design is translated into a mucc more detailed document than the technical design that allow systme builders to understand the actual hardware and software needed to solve the customer problem.
+
+-> conceptual design tells what the system will do, whereas the technical design tell us how to system will work!
+
+***********************
+Technical design explain
+1. hardware implementation
+2. software needs
+3. communication interfaces
+4. I/O of the system
+5. software architecture
+6. network architecture
+7. any other thing tha translates requirement into a solution to the customers problem.
+
+1. The design needs to be correct and complete 
+2. Understanable
+3. At the right level
+4. Maintainable
+
+THE FOLLOWING FIGURE SHOWS THE TRANSLATION OF INFORMAL DESIGN TO A DETAILED DESIGN
+
+INFORMAL DESIGN OUTLINE -> INFORMAL DESIGN -> MORE FORMAL DESIGN -> FINISHED DESIGN
+
+1. To negotiate system requirements, and to set expectations with customers, marketing, and management personnel. Act as a blueprint during the development process. Guide the implementation tasks, including detailed design, coding, integration, and testing. The basic objective of software engineering is to develop methods and procedures for software development that can scale up for large systems and that can be used consistently to produce high-quality software at low cost and with a small cycle of time
+
+2. Design should also provide information what the software deliverables are and where should they be placed in the deployment. This information is very important for your customers as well as integration as they need to know where to look for your library/executable/whatever your software is about
+The design phase of product or part development has quickly become essential to an organisation's strategy. The effectiveness and efficiency of the design phase can have a significant impact on processes such as manufacturing that occur downstream in the product development process
+
+*****************************************
+	PROBLEM PARTITIONING
+*****************************************
+DIVIDE & CONQUER
+
+
+
