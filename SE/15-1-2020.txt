@@ -179,4 +179,37 @@ DIVIDE & CONQUER
 A modular system consist of well defined managaable units with well defined interfaces among the units
 modularity is the single attribite of the application that allows the progrm to be intellectually manageable!!
 
+ *****
+slept in class after this!!
+ *****
+
+
+=========================================
+	SEPERATION OF CONCERN
+=========================================
+
+Seperation of concern is a design concept that sugges that any complex prob can be more easil handled is it is divied into multiple sub-problems and/or optimized independently
+
+A concern is a feature or behaviour that is specified as part of the requirements for the software. by seperating concern into smaller, and more manageable pieces, a problem takes lesser code and time to solve!
+
+MODULARITY - is the most common manifestation of seperation of concerns. software is divided into named and addressable components, sometimes called modules, that are integerated to satisfy problem requirements.
+
+> It can be said that modularity is a single attribute that allow a program to be more manageable.
+> A system is considered modular if it consist of discrete components so that each components can be implemented indepedently.
+
+SRS - DEALS WITH PROBLEM DEFINITION
+SDD - DEALS WITH SOLUTION GIVEN IN SRS.
+
+to produce modular design, we must have some criteria to select modules!
+coupling and cohession are two modularisation criteria.
+
+COUPLING - coupling is the degree of interdependence between software modules; a measure of how closely connected two routines or modules are; the strength of the relationships between modules.
+> two modules with high coupling are strongly interconnected and thus, depedenent on each other and inverse and vice-versa!
+> coupling is high when inter-module call are more or amount of shared data is high!
+
+COHESION - cohesion refers to the level of strength and unity with which different components of a software program are inter-related with each other.(with in thh model). 
+
+|--------------------- NOTE --------------------|
+| GOOD DESIGN = LOW COUPLING AND HIGH COHESION  |
+|-----------------------------------------------|
 
