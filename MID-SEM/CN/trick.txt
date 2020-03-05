@@ -1,0 +1,7 @@
+Please      (Physical Layer) 
+Do          (Data Link Layer) 
+Not         (Network Layer) 
+Tell        (Transport Layer) 
+secret      (Session Layer) 
+Password    (Presentation Layer) 
+Anyone      ( Application Layer )
