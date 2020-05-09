@@ -65,6 +65,7 @@ END;
 
 
 /*OUTPUT*/
+
 ORA-06519: active autonomous transaction detected and rolled back
 ORA-06512: at "STEVEN.NOTHING", line 10
 ORA-06512: at line 2
@@ -102,7 +103,6 @@ END;
 /* SET TRANSACTION STATEMENT */
 
 
-
 set transaction read only;
 select * from toys;
 update toys
@@ -114,6 +114,8 @@ begin
   commit;
 end;
 /
+
+
 select * from toys;
 commit;
 select * from toys;
